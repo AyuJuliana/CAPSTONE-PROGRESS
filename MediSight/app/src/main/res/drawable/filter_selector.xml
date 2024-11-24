@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State selected -->
+    <item android:drawable="@drawable/item_selected_filter" android:state_selected="true" />
+    <!-- Default state -->
+    <item android:drawable="@drawable/item_selected_filter" />
+</selector>
