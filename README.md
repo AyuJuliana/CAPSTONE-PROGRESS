@@ -25,15 +25,15 @@ MediSight is a mobile application designed to assist individuals in identifying 
 ---
 
 ## **Group Members**  
-| Name                              | Role                           | ID            |  
-|-----------------------------------|--------------------------------|---------------|  
-| Ni Komang Ayu Juliana             | Machine Learning               | M014B4KX3329  |  
-| Ni Made Gita Satviki Nirmala      | Mobile Development             | A014B4KX3337  |  
-| Shelomita Putrinda Culio          | Machine Learning               | M014B4KX4133  |  
-| Ni Putu Nadila Sinthadewi         | Cloud Computing                | C014B4KX3347  |  
-| Ni Komang Dinda Mayori            | Cloud Computing                | C014B4KX3330  |  
-| Anak Agung Istri Intan Permata Sari | Machine Learning              | M014B4KX0472  |  
-| I Putu Andika Prasetya            | Mobile Development             | A014B4KY1870  |  
+| Name                              | Role                           | ID            |  Email                          |
+|-----------------------------------|--------------------------------|---------------|---------------------------------|
+| Ni Komang Ayu Juliana             | Machine Learning               | M014B4KX3329  |ayujuliani349@gmail.com          |
+| Ni Made Gita Satviki Nirmala      | Mobile Development             | A014B4KX3337  |gitanirmala726@gmail.com         |
+| Shelomita Putrinda Culio          | Machine Learning               | M014B4KX4133  |shelomitapc@gmail.com            |
+| Ni Putu Nadila Sinthadewi         | Cloud Computing                | C014B4KX3347  |putunadila26@gmail.com           |
+| Ni Komang Dinda Mayori            | Cloud Computing                | C014B4KX3330  |dindamayori27@gmail.com          | 
+| Anak Agung Istri Intan Permata Sari | Machine Learning              | M014B4KX0472  |agungintan63@gmail.com          |
+| I Putu Andika Prasetya            | Mobile Development             | A014B4KY1870  |roronoaandikaprasetya@gmail.com  |  
 
 ---
 
