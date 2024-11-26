@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_logo_blue.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_logo_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_show_pass.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_show_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_bg_filter_selected.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\bg_filter_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_left.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_left.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_blank_profile.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_blank_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_item_selected_filter.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\item_selected_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_article.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_medical_resume.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_medical_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_extra_bold_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_extra_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_nav_background.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.medisight.app-debug-61:/drawable_ic_chat.xml.flat",
+        "source": "com.example.medisight.app-main-63:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_extra_bold.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_medicine.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_medicine.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_trash.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_wound_image_preview.jpg.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\wound_image_preview.jpg"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_bold_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_bg_filter_unselected.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\bg_filter_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_haerin_src.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\haerin_src.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_detail_result.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_detail_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_account_profile.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_account_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_illustration_image.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\illustration_image.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_article_detail.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\article_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_lobster_regular.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\lobster_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_reguler.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_reguler.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_chat_bot.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_chat_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_chat_bot.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_chat_bot.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_extra_light.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_extra_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_banner_capstone.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\banner_capstone.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_health_services.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_health_services.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_update_profile.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_health_service.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_health_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_circle_button_background.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\circle_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_article.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_article.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_thin_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_thin_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_black_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_black_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_medicine_detail.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\medicine_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_article.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\article.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_hot_article.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_hot_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_light_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_light_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_fragment_scan.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_semi_bold_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_semi_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_medium_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_medium_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_user_permission.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_user_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_extra_light_italic.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_extra_light_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.medisight.app-debug-61:/layout_activity_chat_bot.xml.flat",
+        "source": "com.example.medisight.app-main-63:/layout/activity_chat_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_textview_border_background.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\textview_border_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_medicine.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_medicine.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_semi_bold.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.example.medisight.app-debug-61:/layout_activity_main.xml.flat",
+        "source": "com.example.medisight.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_medical_resume.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_medical_resume.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_google.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_filter.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_history.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_health_service.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\health_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_user_message.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_user_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_link.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_link.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_back1.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_back1.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_selected_filter.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_selected_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_filter_selector.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\filter_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_link1.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_link1.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_hide_pass.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_hide_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_gradient_color.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\gradient_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_card_message.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_card_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_item_bot_message.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\item_bot_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-debug-61:\\layout_activity_user_profile_setup.xml.flat",
+        "source": "C:\\Users\\andik\\.gradle\\daemon\\8.7\\com.example.medisight.app-main-63:\\layout\\activity_user_profile_setup.xml"
+    }
+]

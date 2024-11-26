@@ -1,0 +1,6 @@
+com.example.medisight.test.app-tracing-1.2.0-0 C:\Users\andik\.gradle\caches\transforms-4\5d141fd0998c8a2499b560c0d5f9e867\transformed\tracing-1.2.0\res
+com.example.medisight.test.app-core-1.6.1-1 C:\Users\andik\.gradle\caches\transforms-4\8f5987fa82cc2621c39dbdd250bdec99\transformed\core-1.6.1\res
+com.example.medisight.test.app-androidTest-2 D:\MediSight\MediSight\app\build\generated\res\resValues\androidTest\debug
+com.example.medisight.test.app-mergeDebugAndroidTestResources-3 D:\MediSight\MediSight\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.medisight.test.app-mergeDebugAndroidTestResources-4 D:\MediSight\MediSight\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.medisight.test.app-debugAndroidTest-5 D:\MediSight\MediSight\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

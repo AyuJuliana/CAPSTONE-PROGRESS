@@ -1,0 +1,3 @@
+com.example.medisight.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
