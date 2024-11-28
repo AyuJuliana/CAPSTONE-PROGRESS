@@ -63,5 +63,7 @@ dependencies {
     implementation (libs.hilt.android)
     implementation (libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.hilt.navigation.fragment)
+    implementation(libs.generativeai)
+    implementation (libs.okhttp)
 
 }

@@ -7,6 +7,7 @@ import android.widget.ProgressBar
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.medisight.R
+import com.example.medisight.data.preferences.UserPreferences
 import com.example.medisight.ui.custom.EmailEditText
 import com.example.medisight.ui.custom.PasswordEditText
 import com.google.android.material.button.MaterialButton
@@ -69,6 +70,9 @@ class LoginActivity : AppCompatActivity() {
             .addOnCompleteListener(this) { task ->
                 progressBar.visibility = View.GONE
                 if (task.isSuccessful) {
+                    val userPreferences = UserPreferences(this)
+                    userPreferences.setLoggedIn(true)
+
                     Toast.makeText(this, getString(R.string.login_success), Toast.LENGTH_SHORT)
                         .show()
                     startActivity(Intent(this, MainActivity::class.java))

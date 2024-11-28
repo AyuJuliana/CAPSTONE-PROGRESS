@@ -15,6 +15,9 @@
         android:theme="@style/Theme.MediSight"
         tools:targetApi="31">
         <activity
+            android:name=".ui.activity.ChatBotActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.activity.DetailResultActivity"
             android:exported="false" />
         <activity

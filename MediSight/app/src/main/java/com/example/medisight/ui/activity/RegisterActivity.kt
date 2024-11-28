@@ -1,5 +1,6 @@
 package com.example.medisight.ui.activity
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
@@ -8,12 +9,13 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.example.medisight.R
 import com.example.medisight.data.model.AuthResult
+import com.example.medisight.data.preferences.UserPreferences
 import com.example.medisight.data.repository.AuthRepository
 import com.example.medisight.databinding.ActivityRegisterBinding
 import com.example.medisight.domain.usecase.LoginUseCase
 import com.example.medisight.domain.usecase.RegisterUseCase
 import com.example.medisight.ui.viewmodel.AuthViewModel
-import com.example.medisight.ui.viewmodel.factory.AuthViewModelFactory
+import com.example.medisight.factory.AuthViewModelFactory
 import com.google.firebase.auth.FirebaseAuth
 
 class RegisterActivity : AppCompatActivity() {
@@ -58,19 +60,22 @@ class RegisterActivity : AppCompatActivity() {
                 binding.progressBarLoading.visibility = View.GONE
                 when (result) {
                     is AuthResult.Success -> {
+                        val userPreferences = UserPreferences(this@RegisterActivity)
+                        userPreferences.setLoggedIn(true)
+
                         Toast.makeText(
                             this@RegisterActivity,
                             getString(R.string.registration_success),
                             Toast.LENGTH_SHORT
                         ).show()
-                        finish() // Optionally navigate to another screen
-                    }
 
+                        startActivity(Intent(this@RegisterActivity, MainActivity::class.java))
+                        finish()
+                    }
                     is AuthResult.Error -> {
                         Toast.makeText(this@RegisterActivity, result.message, Toast.LENGTH_SHORT)
                             .show()
                     }
-
                     else -> {}
                 }
             }

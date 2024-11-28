@@ -112,4 +112,27 @@
     <string name="login_success">Login success</string>
     <string name="google_sign_in_toast">Sign in with google</string>
     <string name="error_invalid_credentials">Invalid credentials</string>
+    <string name="analyze">Analyze</string>
+    <string name="gallery">Gallery</string>
+    <string name="images_des">This is your scan images</string>
+    <string name="scan_label">Scan your Wounds</string>
+    <string name="result">Result</string>
+    <string name="analysis_label">Our Analysis Based On The Scan :</string>
+    <string name="result_text">You are 99% Bruised</string>
+    <string name="see_more">See more details and treatment?</string>
+    <string name="save">Save to the history</string>
+    <string name="chat_bot_title">AI Assistant</string>
+    <string name="injury_minor_scratch">Luka Lecet</string>
+    <string name="injury_burn">Luka Bakar</string>
+    <string name="injury_normal">Luka Normal</string>
+    <string name="injury_bruise">Luka Memar</string>
+    <string name="injury_cut">Luka Sayatan</string>
+    <string name="injury_minor_scratch_desc">Pertolongan pertama untuk luka lecet ringan</string>
+    <string name="injury_burn_desc">Penanganan luka bakar sesuai tingkat keparahan</string>
+    <string name="injury_normal_desc">Prosedur penanganan luka normal</string>
+    <string name="injury_bruise_desc">Cara mengatasi luka memar</string>
+    <string name="injury_cut_desc">Penanganan luka sayatan</string>
+    <string name="chat_input_hint">Tulis pertanyaan Anda tentang luka...</string>
+    <string name="send_button_description">Kirim pesan</string>
+    <string name="fan_chat_bot">Go to chat bot</string>
 </resources>
