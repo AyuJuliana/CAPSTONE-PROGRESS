@@ -19,7 +19,7 @@ class ChatBotViewModel : ViewModel() {
     private val _isLoading = MutableLiveData<Boolean>(false)
     val isLoading: LiveData<Boolean> = _isLoading
 
-    private val apiKey = "AIzaSyCXsbCsljfCyf2HMhNAH4fEVXn_0CVHhrY"
+    private val apiKey = "YOUR_GEMINI_API_KEY"
 
     private val generativeModel by lazy {
         GenerativeModel(
